@@ -1,0 +1,57 @@
+.twitter-nav-left button{
+
+  border: none;
+  background-color: transparent;
+  color: #66757f
+
+}
+
+.twitter-nav-search input{
+  border-radius: 15px !important;
+}
+
+.twitter-nav-search button{
+  border: none;
+  background-color: transparent;
+}
+
+.navbar{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.tweet{
+  border-width: 1px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.list-inline button{
+  margin-right: 50px;
+  border: none;
+  background-color: transparent;
+  color: #66757f
+}
+
+
+.twitter-reply{
+  border-left: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+  border-top: none;
+}
+
+.twitter-panel{
+  margin-bottom: 0px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+
+}
+.form-group textarea{
+  resize: none;
+  border-radius: 0px;
+}
+
+body{
+  padding-top: 60px;
+}
